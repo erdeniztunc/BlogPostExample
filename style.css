@@ -1,0 +1,25 @@
+html{
+    font-size: 21px;
+}
+
+article{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+figure{
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+figcaption{
+    font-family: sans-serif;
+    color: gray;
+    margin-top: 1em;
+}
+h3,h1{
+    font-family: sans-serif;
+}
